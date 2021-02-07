@@ -1,0 +1,35 @@
+font:
+   normal:
+      family: Fira Mono for Powerline
+   size: 10
+
+colors:
+   background: '#30333d'
+   foreground: '#ffffff'
+   normal:
+      black:   '#292b34'
+      red:     '#f9929b'
+      green:   '#7ed491'
+      yellow:  '#fbdf90'
+      blue:    '#a3b8ef'
+      magenta: '#ccaced'
+      cyan:    '#9ce5c0'
+      white:   '#ffffff'
+
+   bright:
+      black:   '#585e74'
+      red:     '#fca2aa'
+      green:   '#a5d4af'
+      yellow:  '#fbeab9'
+      blue:    '#bac8ef'
+      magenta: '#d7c1ed'
+      cyan:    '#c7e5d6'
+      white:   '#eaeaea'
+
+window:
+   # dimensions:
+   #    columns: 120
+   #    lines: 40
+   padding:
+      x: 10
+      y: 10
