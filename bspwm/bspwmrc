@@ -24,6 +24,8 @@ bspc rule -a Screenkey manage=off
 picom &
 nitrogen --restore &
 pkill polybar
-polybar main &
-nm-applet &
+polybar music &
+polybar center &
+polybar right &
+#nm-applet &
 
