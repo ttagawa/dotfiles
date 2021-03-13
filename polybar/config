@@ -42,7 +42,8 @@ highlight = ${xrdb:color10:#444}
 
 [bar/defaults]
 offset-y = 10
-radius = 12
+radius-top = 5.0
+radius-bottom = 5.0
 fixed-center = true
 background = ${colors.background}
 foreground = ${colors.foreground}
@@ -67,8 +68,8 @@ modules-center = bspwm
 [bar/music]
 inherit = bar/defaults
 offset-x = 30
-width = 290
-modules-left = spotify-prev spotify-play-pause spotify-next spotify
+width = 265
+modules-center = spotify-prev spotify-play-pause spotify-next spotify
 
 [bar/right]
 inherit = bar/defaults
